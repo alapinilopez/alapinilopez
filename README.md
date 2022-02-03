@@ -7,7 +7,7 @@
     - Graphic Design
 
 ### Languages and Tools:
-<br/>
+
 <img align="left" alt="Lapini | Photoshop" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-1.png" />
 <img align="left" alt="Lapini | Premiere" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" />
 <img align="left" alt="Lapini | After Effects" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/788px-Adobe_After_Effects_CC_icon.svg.png" />
