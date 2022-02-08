@@ -29,6 +29,14 @@
 [<img align="left" alt="Lapini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lapini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+<br/>
+
+### About me:
+
+Main acc: https://euw.op.gg/summoners/euw/Padezco%20Migra%C3%B1a
+Smurf acc: https://euw.op.gg/summoners/euw/Marko%20Heredia
+
 </details>
 
 [linkedin]: https://es.linkedin.com/in/alessandro-lapini-l%C3%B3pez-9a4419153
