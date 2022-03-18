@@ -1,5 +1,8 @@
-![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/949593729765782800/08FFA41FEE1068749589C6C807083FB428475D02/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-<br><br>
+<p align="center"><img src="https://c.tenor.com/Q823-830Ri0AAAAd/christian-bale-american-psycho.gif"/></p>
+
+<br>
+<br>
+
 ### Hi there 👋, I'm Alessandro. Welcome to my profile!
 
 - 📚 I’m currently studying **web app development** at [CIFP Borja Moll](https://www.cifpfbmoll.eu/cfgs-desenvolupament-daplicacions-web/).
