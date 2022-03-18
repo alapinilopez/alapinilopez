@@ -1,3 +1,5 @@
+![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/949593729765782800/08FFA41FEE1068749589C6C807083FB428475D02/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+<br><br>
 ### Hi there 👋, I'm Alessandro. Welcome to my profile!
 
 - 📚 I’m currently studying **web app development** at [CIFP Borja Moll](https://www.cifpfbmoll.eu/cfgs-desenvolupament-daplicacions-web/).
@@ -18,11 +20,6 @@
 <img align="left" alt="Lapini | VScode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="Lapini | IntelliJ" width="26px" src="https://www.seleniumacademy.net/wp-content/uploads/2021/12/intellij-idea.png"/>
 <img align="left" alt="Lapini | IntelliJ" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>
-
-
-![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/949593729765782800/08FFA41FEE1068749589C6C807083FB428475D02/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
-
 
 <br/>
 <br/>
