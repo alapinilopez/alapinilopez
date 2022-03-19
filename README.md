@@ -1,5 +1,4 @@
-<p align="center"><img src="https://c.tenor.com/Q823-830Ri0AAAAd/christian-bale-american-psycho.gif"/></p>
-<div class="tenor-gif-embed" data-postid="16732505" data-share-method="host" data-aspect-ratio="1.2749" data-width="100%"><a href="https://tenor.com/view/christian-bale-american-psycho-walk-jam-gif-16732505">Christian Bale American Psycho GIF</a>from <a href="https://tenor.com/search/christian+bale-gifs">Christian Bale GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center"><img src="https://media.giphy.com/media/6uGhT1O4sxpi8/giphy.gif"/></p>
 
 <br>
 <br>
