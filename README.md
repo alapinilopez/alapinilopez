@@ -6,6 +6,7 @@
 ### Hi there 👋, I'm Alessandro. Welcome to my profile!
 
 - 📚 I’m currently studying **web app development** at [CIFP Borja Moll](https://www.cifpfbmoll.eu/cfgs-desenvolupament-daplicacions-web/).
+- 🔧 I'm also working for [Innovation Strategies](https://www.innovation.es/) as a web programmer.
 - 💻 I’m developing a videogame by my own on Unreal Engine.
 - What I've studied: 
     - 3D Modeling and Game Design
